@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 import MenuHeader from './components/MenuHeader.vue'
-import MenuFooter from './components/MenuFooter.vue'
+import MenuFooter from './components/Footer.vue'
 </script>
 
 <template>
